@@ -1,0 +1,20 @@
+num = 2
+idx = 1
+
+print(num, "*", idx, "=", num * idx)
+idx = idx + 1
+print(num, "*", idx, "=", num * idx)
+idx = idx + 1
+print(num, "*", idx, "=", num * idx)
+idx = idx + 1
+print(num, "*", idx, "=", num * idx)
+idx = idx + 1
+print(num, "*", idx, "=", num * idx)
+idx = idx + 1
+print(num, "*", idx, "=", num * idx)
+idx = idx + 1
+print(num, "*", idx, "=", num * idx)
+idx = idx + 1
+print(num, "*", idx, "=", num * idx)
+idx = idx + 1
+print(num, "*", idx, "=", num * idx)
